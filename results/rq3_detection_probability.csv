@@ -1,0 +1,292 @@
+mutant_id,sid,n_activated,p_detect,regime
+IterativeImputer#0027,IterativeImputer[BayesianRidge],71,0.0,never detected
+IterativeImputer#0028,IterativeImputer[BayesianRidge],71,0.0,never detected
+IterativeImputer#0030,IterativeImputer[BayesianRidge],71,0.0,never detected
+IterativeImputer#0031,IterativeImputer[BayesianRidge],71,0.0,never detected
+IterativeImputer#0039,IterativeImputer[BayesianRidge],120,1.0,always detected
+IterativeImputer#0056,IterativeImputer[BayesianRidge],83,0.9879518072289156,condition-dependent
+IterativeImputer#0081,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0086,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0087,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0093,IterativeImputer[BayesianRidge],3,0.0,never detected
+IterativeImputer#0094,IterativeImputer[BayesianRidge],120,0.9583333333333334,condition-dependent
+IterativeImputer#0095,IterativeImputer[BayesianRidge],120,0.9833333333333333,condition-dependent
+IterativeImputer#0096,IterativeImputer[BayesianRidge],120,1.0,always detected
+IterativeImputer#0097,IterativeImputer[BayesianRidge],120,0.9583333333333334,condition-dependent
+IterativeImputer#0098,IterativeImputer[BayesianRidge],119,0.957983193277311,condition-dependent
+IterativeImputer#0099,IterativeImputer[BayesianRidge],120,0.9916666666666667,condition-dependent
+IterativeImputer#0110,IterativeImputer[BayesianRidge],109,0.009174311926605505,condition-dependent
+IterativeImputer#0111,IterativeImputer[BayesianRidge],109,0.009174311926605505,condition-dependent
+IterativeImputer#0113,IterativeImputer[BayesianRidge],110,0.0,never detected
+IterativeImputer#0114,IterativeImputer[BayesianRidge],110,0.0,never detected
+IterativeImputer#0122,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0128,IterativeImputer[BayesianRidge],26,0.0,never detected
+IterativeImputer#0140,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0143,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0147,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0148,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0150,IterativeImputer[BayesianRidge],29,0.0,never detected
+IterativeImputer#0151,IterativeImputer[BayesianRidge],29,0.0,never detected
+IterativeImputer#0154,IterativeImputer[BayesianRidge],120,0.9916666666666667,condition-dependent
+IterativeImputer#0155,IterativeImputer[BayesianRidge],120,0.9916666666666667,condition-dependent
+IterativeImputer#0156,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0157,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0158,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0159,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0161,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0162,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0166,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0169,IterativeImputer[BayesianRidge],85,0.0,never detected
+IterativeImputer#0171,IterativeImputer[BayesianRidge],85,0.0,never detected
+IterativeImputer#0174,IterativeImputer[BayesianRidge],120,0.05,condition-dependent
+IterativeImputer#0193,IterativeImputer[BayesianRidge],120,0.8833333333333333,condition-dependent
+IterativeImputer#0199,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0210,IterativeImputer[BayesianRidge],23,1.0,always detected
+IterativeImputer#0217,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0222,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0228,IterativeImputer[BayesianRidge],83,0.9879518072289156,condition-dependent
+IterativeImputer#0229,IterativeImputer[BayesianRidge],83,0.9879518072289156,condition-dependent
+IterativeImputer#0247,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0259,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0262,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0263,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0268,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0269,IterativeImputer[BayesianRidge],120,0.0,never detected
+IterativeImputer#0302,IterativeImputer[BayesianRidge],48,0.0,never detected
+IterativeImputer#0303,IterativeImputer[BayesianRidge],44,0.0,never detected
+IterativeImputer#0304,IterativeImputer[BayesianRidge],120,0.8583333333333333,condition-dependent
+IterativeImputer#0307,IterativeImputer[BayesianRidge],44,0.0,never detected
+IterativeImputer#0309,IterativeImputer[BayesianRidge],78,0.0,never detected
+IterativeImputer#0310,IterativeImputer[BayesianRidge],76,0.0,never detected
+IterativeImputer#0311,IterativeImputer[BayesianRidge],88,0.0,never detected
+IterativeImputer#0321,IterativeImputer[BayesianRidge],44,0.0,never detected
+IterativeImputer#0324,IterativeImputer[BayesianRidge],118,0.0,never detected
+IterativeImputer#0325,IterativeImputer[BayesianRidge],32,0.0,never detected
+IterativeImputer#0327,IterativeImputer[BayesianRidge],76,0.0,never detected
+IterativeImputer#0328,IterativeImputer[BayesianRidge],78,0.0,never detected
+IterativeImputer#0334,IterativeImputer[BayesianRidge],9,0.0,never detected
+IterativeImputer#0340,IterativeImputer[BayesianRidge],118,0.0,never detected
+IterativeImputer#0343,IterativeImputer[BayesianRidge],44,0.0,never detected
+IterativeImputer#0355,IterativeImputer[BayesianRidge],120,1.0,always detected
+KNNImputer#0002,KNNImputer[distance],39,0.46153846153846156,condition-dependent
+KNNImputer#0002,KNNImputer[uniform],40,0.45,condition-dependent
+KNNImputer#0003,KNNImputer[distance],30,0.6666666666666666,condition-dependent
+KNNImputer#0003,KNNImputer[uniform],33,0.6363636363636364,condition-dependent
+KNNImputer#0004,KNNImputer[distance],11,0.0,never detected
+KNNImputer#0004,KNNImputer[uniform],8,0.0,never detected
+KNNImputer#0006,KNNImputer[distance],83,0.9036144578313253,condition-dependent
+KNNImputer#0006,KNNImputer[uniform],83,0.9156626506024096,condition-dependent
+KNNImputer#0011,KNNImputer[distance],120,0.016666666666666666,condition-dependent
+KNNImputer#0012,KNNImputer[distance],120,0.016666666666666666,condition-dependent
+KNNImputer#0024,KNNImputer[distance],120,0.05,condition-dependent
+KNNImputer#0024,KNNImputer[uniform],120,0.0,never detected
+KNNImputer#0025,KNNImputer[distance],120,0.025,condition-dependent
+KNNImputer#0030,KNNImputer[distance],120,0.0,never detected
+KNNImputer#0030,KNNImputer[uniform],120,0.0,never detected
+KNNImputer#0040,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0040,KNNImputer[uniform],120,0.9833333333333333,condition-dependent
+KNNImputer#0044,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0044,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0045,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0045,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0053,KNNImputer[distance],120,0.0,never detected
+KNNImputer#0053,KNNImputer[uniform],120,0.0,never detected
+KNNImputer#0063,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0063,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0070,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0070,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0071,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0071,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0073,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0073,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0074,KNNImputer[distance],120,0.0,never detected
+KNNImputer#0074,KNNImputer[uniform],120,0.0,never detected
+KNNImputer#0079,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0079,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0081,KNNImputer[distance],21,1.0,always detected
+KNNImputer#0081,KNNImputer[uniform],21,1.0,always detected
+KNNImputer#0082,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0082,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0084,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0084,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0090,KNNImputer[distance],120,0.5916666666666667,condition-dependent
+KNNImputer#0090,KNNImputer[uniform],120,0.575,condition-dependent
+KNNImputer#0094,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0094,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0096,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0096,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0102,KNNImputer[distance],21,0.8571428571428571,condition-dependent
+KNNImputer#0102,KNNImputer[uniform],21,0.8571428571428571,condition-dependent
+KNNImputer#0105,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0105,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0106,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0106,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0107,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0107,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0108,KNNImputer[distance],67,0.0,never detected
+KNNImputer#0108,KNNImputer[uniform],67,0.0,never detected
+KNNImputer#0109,KNNImputer[distance],21,0.8571428571428571,condition-dependent
+KNNImputer#0109,KNNImputer[uniform],21,0.8571428571428571,condition-dependent
+KNNImputer#0111,KNNImputer[distance],21,1.0,always detected
+KNNImputer#0111,KNNImputer[uniform],21,1.0,always detected
+KNNImputer#0112,KNNImputer[distance],21,1.0,always detected
+KNNImputer#0112,KNNImputer[uniform],21,1.0,always detected
+KNNImputer#0113,KNNImputer[distance],21,0.8571428571428571,condition-dependent
+KNNImputer#0113,KNNImputer[uniform],21,0.8571428571428571,condition-dependent
+KNNImputer#0115,KNNImputer[distance],120,0.025,condition-dependent
+KNNImputer#0115,KNNImputer[uniform],120,0.0,never detected
+KNNImputer#0116,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0116,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0119,KNNImputer[distance],118,1.0,always detected
+KNNImputer#0119,KNNImputer[uniform],118,1.0,always detected
+KNNImputer#0121,KNNImputer[distance],21,1.0,always detected
+KNNImputer#0121,KNNImputer[uniform],21,1.0,always detected
+KNNImputer#0123,KNNImputer[distance],21,0.8571428571428571,condition-dependent
+KNNImputer#0123,KNNImputer[uniform],21,0.8571428571428571,condition-dependent
+KNNImputer#0126,KNNImputer[distance],21,1.0,always detected
+KNNImputer#0126,KNNImputer[uniform],21,1.0,always detected
+KNNImputer#0127,KNNImputer[distance],21,1.0,always detected
+KNNImputer#0127,KNNImputer[uniform],21,1.0,always detected
+KNNImputer#0131,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0131,KNNImputer[uniform],120,1.0,always detected
+KNNImputer#0132,KNNImputer[distance],23,1.0,always detected
+KNNImputer#0132,KNNImputer[uniform],23,1.0,always detected
+KNNImputer#0134,KNNImputer[distance],23,1.0,always detected
+KNNImputer#0134,KNNImputer[uniform],23,1.0,always detected
+KNNImputer#0136,KNNImputer[distance],23,0.13043478260869565,condition-dependent
+KNNImputer#0136,KNNImputer[uniform],23,0.2608695652173913,condition-dependent
+KNNImputer#0137,KNNImputer[distance],23,0.13043478260869565,condition-dependent
+KNNImputer#0137,KNNImputer[uniform],23,0.2608695652173913,condition-dependent
+KNNImputer#0138,KNNImputer[distance],120,1.0,always detected
+KNNImputer#0138,KNNImputer[uniform],120,1.0,always detected
+SimpleImputer#0002,SimpleImputer[most_frequent],240,1.0,always detected
+SimpleImputer#0003,SimpleImputer[mean],120,1.0,always detected
+SimpleImputer#0003,SimpleImputer[median],120,1.0,always detected
+SimpleImputer#0006,SimpleImputer[most_frequent],120,1.0,always detected
+SimpleImputer#0007,SimpleImputer[mean],120,1.0,always detected
+SimpleImputer#0007,SimpleImputer[median],120,1.0,always detected
+SimpleImputer#0018,SimpleImputer[mean],120,0.0,never detected
+SimpleImputer#0018,SimpleImputer[median],120,0.0,never detected
+SimpleImputer#0018,SimpleImputer[most_frequent],120,0.0,never detected
+SimpleImputer#0021,SimpleImputer[mean],120,1.0,always detected
+SimpleImputer#0021,SimpleImputer[median],120,1.0,always detected
+SimpleImputer#0021,SimpleImputer[most_frequent],120,1.0,always detected
+SimpleImputer#0074,SimpleImputer[mean],120,1.0,always detected
+SimpleImputer#0074,SimpleImputer[median],120,1.0,always detected
+SimpleImputer#0076,SimpleImputer[median],120,1.0,always detected
+SimpleImputer#0076,SimpleImputer[most_frequent],120,1.0,always detected
+SimpleImputer#0077,SimpleImputer[median],120,1.0,always detected
+SimpleImputer#0077,SimpleImputer[most_frequent],120,1.0,always detected
+SimpleImputer#0081,SimpleImputer[most_frequent],117,1.0,always detected
+SimpleImputer#0082,SimpleImputer[median],120,1.0,always detected
+SimpleImputer#0083,SimpleImputer[mean],120,1.0,always detected
+SimpleImputer#0085,SimpleImputer[mean],23,1.0,always detected
+SimpleImputer#0086,SimpleImputer[most_frequent],117,1.0,always detected
+SimpleImputer#0091,SimpleImputer[mean],23,1.0,always detected
+SimpleImputer#0092,SimpleImputer[mean],23,1.0,always detected
+SimpleImputer#0094,SimpleImputer[median],120,1.0,always detected
+SimpleImputer#0096,SimpleImputer[median],23,1.0,always detected
+SimpleImputer#0104,SimpleImputer[median],23,1.0,always detected
+SimpleImputer#0105,SimpleImputer[median],23,1.0,always detected
+SimpleImputer#0110,SimpleImputer[most_frequent],120,1.0,always detected
+SimpleImputer#0111,SimpleImputer[most_frequent],113,1.0,always detected
+SimpleImputer#0112,SimpleImputer[most_frequent],120,1.0,always detected
+SimpleImputer#0119,SimpleImputer[most_frequent],120,1.0,always detected
+SimpleImputer#0120,SimpleImputer[most_frequent],23,1.0,always detected
+SimpleImputer#0121,SimpleImputer[most_frequent],120,1.0,always detected
+SimpleImputer#0125,SimpleImputer[most_frequent],120,1.0,always detected
+SimpleImputer#0126,SimpleImputer[most_frequent],23,1.0,always detected
+SimpleImputer#0127,SimpleImputer[most_frequent],23,1.0,always detected
+SimpleImputer#0135,SimpleImputer[most_frequent],23,1.0,always detected
+SimpleImputer#0136,SimpleImputer[most_frequent],23,1.0,always detected
+SimpleImputer#0184,SimpleImputer[mean],120,1.0,always detected
+SimpleImputer#0184,SimpleImputer[median],120,1.0,always detected
+SimpleImputer#0184,SimpleImputer[most_frequent],120,1.0,always detected
+SoftImpute#0003,SoftImpute[custom],120,0.03333333333333333,condition-dependent
+SoftImpute#0004,SoftImpute[custom],120,0.16666666666666666,condition-dependent
+SoftImpute#0005,SoftImpute[custom],106,0.9339622641509434,condition-dependent
+SoftImpute#0006,SoftImpute[custom],36,1.0,always detected
+SoftImpute#0010,SoftImpute[custom],120,1.0,always detected
+SoftImpute#0012,SoftImpute[custom],120,1.0,always detected
+SoftImpute#0013,SoftImpute[custom],120,1.0,always detected
+SoftImpute#0014,SoftImpute[custom],120,1.0,always detected
+SoftImpute#0015,SoftImpute[custom],120,1.0,always detected
+SoftImpute#0019,SoftImpute[custom],120,0.016666666666666666,condition-dependent
+SoftImpute#0020,SoftImpute[custom],120,0.008333333333333333,condition-dependent
+SoftImpute#0025,SoftImpute[custom],97,0.010309278350515464,condition-dependent
+SoftImpute#0026,SoftImpute[custom],23,0.5652173913043478,condition-dependent
+SoftImpute#0029,SoftImpute[custom],120,0.7833333333333333,condition-dependent
+SoftImpute#0030,SoftImpute[custom],120,0.008333333333333333,condition-dependent
+SoftImpute#0033,SoftImpute[custom],120,0.0,never detected
+SoftImpute#0034,SoftImpute[custom],120,0.7833333333333333,condition-dependent
+SoftImpute#0037,SoftImpute[custom],120,0.0,never detected
+SoftImpute#0039,SoftImpute[custom],120,0.008333333333333333,condition-dependent
+SoftImpute#0040,SoftImpute[custom],16,0.5,condition-dependent
+SoftImpute#0042,SoftImpute[custom],120,0.008333333333333333,condition-dependent
+SoftImpute#0044,SoftImpute[custom],7,0.0,never detected
+nan_euclidean#0014,KNNImputer[distance],120,0.5666666666666667,condition-dependent
+nan_euclidean#0014,KNNImputer[uniform],119,0.5966386554621849,condition-dependent
+nan_euclidean#0015,KNNImputer[distance],120,0.4583333333333333,condition-dependent
+nan_euclidean#0015,KNNImputer[uniform],120,0.55,condition-dependent
+nan_euclidean#0017,KNNImputer[distance],120,0.5583333333333333,condition-dependent
+nan_euclidean#0017,KNNImputer[uniform],116,0.603448275862069,condition-dependent
+nan_euclidean#0018,KNNImputer[distance],120,0.44166666666666665,condition-dependent
+nan_euclidean#0018,KNNImputer[uniform],115,0.5652173913043478,condition-dependent
+nan_euclidean#0020,KNNImputer[distance],120,0.6,condition-dependent
+nan_euclidean#0020,KNNImputer[uniform],120,0.6,condition-dependent
+nan_euclidean#0021,KNNImputer[distance],120,0.6,condition-dependent
+nan_euclidean#0021,KNNImputer[uniform],120,0.6,condition-dependent
+nan_euclidean#0023,KNNImputer[distance],120,0.0,never detected
+nan_euclidean#0023,KNNImputer[uniform],120,0.0,never detected
+nan_euclidean#0025,KNNImputer[distance],120,0.25833333333333336,condition-dependent
+nan_euclidean#0025,KNNImputer[uniform],120,0.3,condition-dependent
+nan_euclidean#0026,KNNImputer[distance],115,0.3217391304347826,condition-dependent
+nan_euclidean#0026,KNNImputer[uniform],115,0.4956521739130435,condition-dependent
+nan_euclidean#0027,KNNImputer[distance],120,0.2833333333333333,condition-dependent
+nan_euclidean#0027,KNNImputer[uniform],120,0.4666666666666667,condition-dependent
+nan_euclidean#0028,KNNImputer[distance],88,0.06818181818181818,condition-dependent
+nan_euclidean#0028,KNNImputer[uniform],88,0.3409090909090909,condition-dependent
+nan_euclidean#0029,KNNImputer[distance],88,0.06818181818181818,condition-dependent
+nan_euclidean#0029,KNNImputer[uniform],88,0.3409090909090909,condition-dependent
+nan_euclidean#0030,KNNImputer[distance],117,0.5470085470085471,condition-dependent
+nan_euclidean#0030,KNNImputer[uniform],111,0.5585585585585585,condition-dependent
+nan_euclidean#0031,KNNImputer[distance],88,0.06818181818181818,condition-dependent
+nan_euclidean#0031,KNNImputer[uniform],88,0.3409090909090909,condition-dependent
+nan_euclidean#0032,KNNImputer[distance],112,0.8303571428571429,condition-dependent
+nan_euclidean#0032,KNNImputer[uniform],112,0.8035714285714286,condition-dependent
+nan_euclidean#0033,KNNImputer[distance],112,0.8303571428571429,condition-dependent
+nan_euclidean#0033,KNNImputer[uniform],112,0.8035714285714286,condition-dependent
+nan_euclidean#0037,KNNImputer[distance],120,0.3,condition-dependent
+nan_euclidean#0037,KNNImputer[uniform],118,0.3389830508474576,condition-dependent
+nan_euclidean#0038,KNNImputer[distance],120,0.2833333333333333,condition-dependent
+nan_euclidean#0038,KNNImputer[uniform],116,0.3275862068965517,condition-dependent
+nan_euclidean#0039,KNNImputer[distance],117,0.3247863247863248,condition-dependent
+nan_euclidean#0039,KNNImputer[uniform],118,0.3728813559322034,condition-dependent
+nan_euclidean#0043,KNNImputer[distance],120,0.2833333333333333,condition-dependent
+nan_euclidean#0043,KNNImputer[uniform],120,0.3333333333333333,condition-dependent
+nan_euclidean#0045,KNNImputer[distance],74,0.4594594594594595,condition-dependent
+nan_euclidean#0045,KNNImputer[uniform],74,0.5,condition-dependent
+nan_euclidean#0046,KNNImputer[distance],120,0.26666666666666666,condition-dependent
+nan_euclidean#0046,KNNImputer[uniform],120,0.2916666666666667,condition-dependent
+nan_euclidean#0047,KNNImputer[distance],101,0.3465346534653465,condition-dependent
+nan_euclidean#0047,KNNImputer[uniform],101,0.4158415841584158,condition-dependent
+nan_euclidean#0048,KNNImputer[distance],74,0.4594594594594595,condition-dependent
+nan_euclidean#0048,KNNImputer[uniform],74,0.5,condition-dependent
+nan_euclidean#0051,KNNImputer[distance],97,0.061855670103092786,condition-dependent
+nan_euclidean#0051,KNNImputer[uniform],88,0.13636363636363635,condition-dependent
+nan_euclidean#0053,KNNImputer[distance],112,0.08928571428571429,condition-dependent
+nan_euclidean#0053,KNNImputer[uniform],114,0.14035087719298245,condition-dependent
+nan_euclidean#0054,KNNImputer[distance],72,0.0,never detected
+nan_euclidean#0054,KNNImputer[uniform],19,0.05263157894736842,condition-dependent
+nan_euclidean#0056,KNNImputer[distance],117,0.008547008547008548,condition-dependent
+nan_euclidean#0056,KNNImputer[uniform],26,0.038461538461538464,condition-dependent
+nan_euclidean#0057,KNNImputer[distance],120,0.008333333333333333,condition-dependent
+nan_euclidean#0057,KNNImputer[uniform],22,0.0,never detected
+nan_euclidean#0058,KNNImputer[distance],120,0.008333333333333333,condition-dependent
+nan_euclidean#0058,KNNImputer[uniform],22,0.0,never detected
+nan_euclidean#0059,KNNImputer[distance],120,0.008333333333333333,condition-dependent
+nan_euclidean#0059,KNNImputer[uniform],22,0.0,never detected
+nan_euclidean#0060,KNNImputer[distance],120,0.016666666666666666,condition-dependent
+nan_euclidean#0060,KNNImputer[uniform],22,0.0,never detected
+nan_euclidean#0061,KNNImputer[distance],120,0.008333333333333333,condition-dependent
+nan_euclidean#0061,KNNImputer[uniform],22,0.0,never detected

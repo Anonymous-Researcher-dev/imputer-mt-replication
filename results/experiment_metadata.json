@@ -1,0 +1,109 @@
+{
+  "profile": "full",
+  "config": {
+    "n_cond": 120,
+    "n_max": 200,
+    "p_max": 8,
+    "mutant_cap": null,
+    "n_boot": 2000
+  },
+  "seed": 20261029,
+  "python": "3.12.7",
+  "scikit_learn": "1.6.1",
+  "numpy": "2.3.5",
+  "pandas": "2.2.3",
+  "scipy": "1.15.2",
+  "workers": 16,
+  "tolerances": {
+    "mean": 1e-09,
+    "median": 1e-09,
+    "most_frequent": 1e-09,
+    "knn": 1e-07,
+    "iter": 0.0001,
+    "softimpute": 1e-06
+  },
+  "tolerance_dtype": {
+    "mean": 0.0001,
+    "median": 0.0001,
+    "most_frequent": 0.0001,
+    "knn": 0.0001,
+    "iter": 0.001,
+    "softimpute": 0.001
+  },
+  "properties": {
+    "CI": "Complete-input identity",
+    "OVP": "Observed-value preservation",
+    "NFO": "Completeness: same shape, no NaN/inf in output",
+    "RNG": "Range containment of imputed values",
+    "StatRep": "Statistic replication under row duplication",
+    "RP": "Row permutation equivariance (derangement)",
+    "FP": "Feature permutation equivariance (derangement)",
+    "DR": "Duplicate-row symmetry",
+    "SE": "Global scale equivariance (c in [1e-3, 1e3])",
+    "TE": "Per-feature translation equivariance",
+    "PFS": "Per-feature scale equivariance",
+    "CS": "Column-subset independence",
+    "MV": "Missing-marker equivalence (NaN vs sentinel)",
+    "DT": "float32/float64 consistency + dtype preservation",
+    "IV": "Rejects infinite input with ValueError",
+    "CB": "Clip bounds (min_value/max_value) are respected",
+    "NN": "n_nearest_features=p-1 equals using all other features"
+  },
+  "paper7": [
+    "CI",
+    "OVP",
+    "RP",
+    "FP",
+    "DR",
+    "SE",
+    "StatRep"
+  ],
+  "subjects": [
+    "SimpleImputer[mean]",
+    "SimpleImputer[median]",
+    "SimpleImputer[most_frequent]",
+    "KNNImputer[uniform]",
+    "KNNImputer[distance]",
+    "IterativeImputer[BayesianRidge]",
+    "SoftImpute[custom]"
+  ],
+  "targets": {
+    "SimpleImputer": "sklearn.impute._base",
+    "KNNImputer": "sklearn.impute._knn",
+    "nan_euclidean": "sklearn.metrics.pairwise",
+    "IterativeImputer": "sklearn.impute._iterative",
+    "SoftImpute": "mt_softimpute"
+  },
+  "data_pool": {
+    "real_diabetes": [
+      442,
+      10
+    ],
+    "real_wine": [
+      178,
+      13
+    ],
+    "real_breast_cancer": [
+      569,
+      30
+    ],
+    "real_digits": [
+      1797,
+      64
+    ],
+    "real_iris": [
+      150,
+      4
+    ],
+    "real_california": [
+      20640,
+      8
+    ]
+  },
+  "csv_files_used": {},
+  "mutants": {
+    "generated": 864,
+    "covered": 649,
+    "selected": 649
+  }
+}

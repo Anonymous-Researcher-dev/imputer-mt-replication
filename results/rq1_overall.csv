@@ -1,0 +1,2 @@
+scope,mutants,analysed,killed_by_property,killed_by_crash_only,survived,score,ci_lo,ci_hi
+all targets,864,248,149,65,34,0.6008064516129032,0.5362903225806451,0.6612903225806451

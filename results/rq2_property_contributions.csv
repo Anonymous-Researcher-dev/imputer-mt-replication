@@ -1,0 +1,18 @@
+property,class,kills,unique_kills,lost_if_removed
+RP,metamorphic,52,7,7
+StatRep,analytic oracle,27,7,7
+DT,metamorphic,38,6,6
+NN,metamorphic,10,6,6
+SE,metamorphic,55,5,5
+NFO,invariant,39,4,4
+IV,robustness,5,4,4
+MV,metamorphic,33,3,3
+CB,invariant,3,3,3
+TE,metamorphic,45,2,2
+CI,invariant,3,1,1
+FP,metamorphic,44,0,0
+RNG,invariant,39,0,0
+DR,symmetry,9,0,0
+PFS,metamorphic,9,0,0
+OVP,invariant,5,0,0
+CS,metamorphic,3,0,0

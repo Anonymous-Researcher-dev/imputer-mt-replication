@@ -1,0 +1,7 @@
+scope,analysed,killable_by_full_suite,min_suite_size,n_minimal_sets,example_minimal_set
+ALL,248,149,11,1,CI + NFO + StatRep + RP + SE + TE + MV + DT + IV + CB + NN
+SimpleImputer,52,31,2,1,StatRep + IV
+KNNImputer,57,48,5,1,CI + RNG + RP + SE + MV
+nan_euclidean,37,32,3,1,RP + TE + DT
+IterativeImputer,79,19,4,1,MV + DT + CB + NN
+SoftImpute,23,19,3,1,NFO + SE + IV
