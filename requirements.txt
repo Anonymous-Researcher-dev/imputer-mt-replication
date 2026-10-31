@@ -1,0 +1,9 @@
+# Versions used for the reported experiment (Python 3.12.7)
+numpy==2.3.5
+pandas==2.2.3
+scipy==1.15.2
+scikit-learn==1.6.1
+# not version-sensitive for the results
+joblib
+matplotlib
+jupyter
